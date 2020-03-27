@@ -12,7 +12,7 @@
       "rdfs:comment": "validValue",
       "rdfs:label": "validValue",
       "rdfs:subClassOf": {
-          "@id": "schema:Person"
+          "@id": "invalidValue"
       }
     }
   ]
